@@ -37,6 +37,9 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `<URL_DO_REPOSITÓRIO_AQUI>`
+**1. Repositório selecionado:** `https://github.com/httpie/cli`
 
-**2. Explicação:** `<SUA_EXPLICAÇÃO_AQUI>`
+**2. Explicação:** `Ao analisar o repositório no TestMiner, o que mais me chamou atenção foi o uso de fixtures, com um total de 53 no projeto. As fixtures são utilizadas para reutilizar dados e configurações nos testes, evitando repetição de código. Em vez de configurar manualmente cada teste, o projeto define estruturas reutilizáveis que podem ser compartilhadas entre vários testes.
+
+Achei essa prática interessante porque torna os testes mais organizados, mais fáceis de manter e menos repetitivos. Além disso, facilita a escrita de novos testes, já que muitas configurações já estão prontas para uso.Isso contribui para melhorar a qualidade do software, pois incentiva a criação de mais testes de forma eficiente.
+`
